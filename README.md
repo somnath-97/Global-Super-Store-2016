@@ -1,8 +1,7 @@
  # GLOBAL-SUPER-STORE-2016 SALES DASHBOARD
 
 
-### Dashboard Link : https://github.com/somnath-97/Global-Super-Store-2016/edit/main/README.md
-
+### Dashboard Link : https://github.com/somnath-97/Global-Super-Store-2016
 ## Problem Statement
 
 Crafted an insightful Power BI dashboard for 'GLOBAL-SUPER-STORE-2016' by analyzing e-commerce sales data. The objective was to empower small sellers with data-driven insights, facilitating informed business decisions. Leveraging advanced analytics and visualization techniques, the dashboard provides a comprehensive overview of online sales data.
